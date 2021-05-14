@@ -1,0 +1,20 @@
+/* img {
+    position: fixed;
+    margin-top: 20%;
+    margin-left: 15%;
+} */
+
+.introScreen {
+    margin-top: 20%;
+    align-content: center;
+    padding-right: 2%;
+}
+
+.image {
+    float: left;
+}
+
+.introPara {
+    float: right;
+    overflow-wrap: break-word;
+}
