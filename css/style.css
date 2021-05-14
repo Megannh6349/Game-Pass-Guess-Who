@@ -20,7 +20,10 @@
 }
 
 .card {
-    max-width: 50%;
+    max-width: 150px;
     float: left;
-    margin-left: 5%;
+}
+
+.gameTitleText {
+    font-style: italic;
 }
