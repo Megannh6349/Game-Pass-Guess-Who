@@ -2,7 +2,7 @@ const choices = [
     {
         name: 'Tidus',
         game: 'Final Fantasy X',
-        description: ''
+        description: '',
     },
     {
         name: 'Crypto-137',
