@@ -25,6 +25,20 @@
     float: left;
 }
 
+#userChar {
+    width: 100%;
+    height: 400px;
+    text-align: center;
+    align-content: center;
+}
 .gameTitleText {
     font-style: italic;
 }
+
+/* .userChar {
+    float: left;
+}
+
+.userCharImg {
+    float: right;
+} */
